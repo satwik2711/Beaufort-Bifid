@@ -22,6 +22,7 @@ This project implements two classical cipher algorithms—**Beaufort** and **Bif
 
    ```bash
    pip install streamlit scikit-learn tensorflow
+   pip install matplotlib seaborn
    ```
 
 
